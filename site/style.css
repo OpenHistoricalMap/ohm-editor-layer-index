@@ -1,0 +1,74 @@
+body {
+    margin:0;
+    padding:20px;
+    font: normal 15px/25px 'Helvetica Neue', sans-serif;
+    color:#333;
+    margin-right:50%;
+}
+
+h1 {
+    margin:0;
+    padding-bottom:10px;
+}
+
+label {
+    display:block;
+}
+
+input {
+    font:inherit;
+}
+
+a {
+    color:darkblue;
+    font-weight:bold;
+}
+
+a.active {
+    color:darkred;
+}
+
+#map {
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    width:50%;
+}
+
+div.best {
+    border: 1px solid gold;
+}
+
+.meta {
+    padding:5px;
+    background:#eee;
+}
+
+.meta span {
+    font: normal 10px/20px monospace;
+    overflow: hidden;
+    white-space:nowrap;
+    display:block;
+}
+
+.meta span:hover {
+    max-width:100%;
+}
+
+span.type {
+    color:#aaa;
+    margin-left:5px;
+    font: normal 10px/20px 'Helvetica Neue', sans-serif;
+}
+
+span.remote-control {
+    margin-left:5px;
+    font: normal 10px/20px 'Helvetica Neue', sans-serif;
+}
+
+#slide {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
