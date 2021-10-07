@@ -19,7 +19,7 @@
         "id": "osmim-imagicode-S2B_R061_S7X_20200226T041719",
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Lambert Glacier west",
-        "max_zoom": 13,
+        "max_zoom": 12,
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2020-02-26",
         "type": "tms",

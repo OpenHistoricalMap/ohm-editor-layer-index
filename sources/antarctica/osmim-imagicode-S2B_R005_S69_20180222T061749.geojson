@@ -19,7 +19,7 @@
         "id": "osmim-imagicode-S2B_R005_S69_20180222T061749",
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Lützow-Holm Bay",
-        "max_zoom": 13,
+        "max_zoom": 12,
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2018-02-22",
         "type": "tms",

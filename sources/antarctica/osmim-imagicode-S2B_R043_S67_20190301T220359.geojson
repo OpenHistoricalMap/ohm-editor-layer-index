@@ -19,7 +19,7 @@
         "id": "osmim-imagicode-S2B_R043_S67_20190301T220359",
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Sturge Island/Buckle Island March 2019",
-        "max_zoom": 13,
+        "max_zoom": 12,
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2019-03-01",
         "type": "tms",

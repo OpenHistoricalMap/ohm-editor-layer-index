@@ -19,7 +19,7 @@
         "id": "osmim-imagicode-S2B_R129_S67_20200121T222409",
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Young Island/Buckle Island January 2020",
-        "max_zoom": 13,
+        "max_zoom": 12,
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2020-01-21",
         "type": "tms",
