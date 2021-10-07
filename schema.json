@@ -50,6 +50,7 @@
                         "photo",
                         "map",
                         "ohmbasedmap",
+                        "osmbasedmap",
                         "qa",
                         "elevation",
                         "other"
@@ -70,6 +71,10 @@
                 },
                 "license_url": {
                     "description": "A URL for the license or permissions for the imagery",
+                    "type": "string"
+                },
+                "permission_osm": {
+                    "description": "[FIXME] Definition of whether OSM has explicitly been granted permission to use this layer",
                     "type": "string"
                 },
                 "privacy_policy_url": {
