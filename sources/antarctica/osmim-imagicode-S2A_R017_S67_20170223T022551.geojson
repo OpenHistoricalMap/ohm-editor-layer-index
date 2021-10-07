@@ -20,7 +20,6 @@
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Bunger Hills",
         "max_zoom": 13,
-        "permission_osm": "explicit",
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2017-02-23",
         "type": "tms",

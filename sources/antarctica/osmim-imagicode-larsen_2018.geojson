@@ -20,7 +20,6 @@
         "license_url": "https://imagico.de/map/osmim_tiles.php",
         "name": "imagico.de: Larsen C ice shelf after calving",
         "max_zoom": 12,
-        "permission_osm": "explicit",
         "privacy_policy_url": "http://services.imagico.de/privacy.php",
         "start_date": "2018-01-06",
         "type": "tms",
