@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "id": "1866_Alpes_Maritime",
+    "name": "1820-1866 Alpes Maritime SCAN Etat-major® 40K",
+    "type": "tms",
+    "category": "map",
+    "url": "https://tiles.arcgis.com/tiles/hWPofPww6MAnhY3I/arcgis/rest/services/AlpesMaritimes_WTL1/MapServer/WMTS/tile/1.0.0/AlpesMaritimes_WTL1/default/default028mm/{zoom}/{y}/{x}",
+    "country_code": "FR",
+    "min_zoom": 13,
+    "max_zoom": 20,    	      
+    "attribution": {
+        "url": "https://geoservices.ign.fr/sites/default/files/2021-07/IGNF_SCANEMr_40K_1-0.html",
+        "text": "IGN SCAN État-major® 40K",
+        "required": false
+    },
+    "privacy_policy_url": "https://www.ign.fr/institut/donnees-caractere-personnel",
+    "license_url": "https://www.geoportail.gouv.fr/mentions-legales",
+    "icon": "https://www.ign.fr/sites/default/files/styles/thumbnail/public/2020-06/logoIGN_300x200.png",
+    "valid-georeference": true,
+    "start_date": "1825",
+    "end_date": "1866"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [ 
+       [ 6.520383, 44.4631928 ], 
+       [ 6.4297458, 42.9725036 ], 
+       [ 6.6796848, 42.9664744 ], 
+       [ 6.6989108, 43.3850919 ], 
+       [ 6.9076511, 43.3970672 ], 
+       [ 7.5228854, 43.7453069 ], 
+       [ 7.7069064, 44.0086221 ], 
+       [ 7.4871799, 44.0915325 ], 
+       [ 7.1548434, 44.1408288 ], 
+       [ 7.0120212, 44.2550379 ], 
+       [ 6.9488498, 44.3827677 ], 
+       [ 6.9598361, 44.4377041 ], 
+       [ 6.520383, 44.4631928 ] 
+     ]
+    ]
+  }
+}
